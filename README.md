@@ -44,3 +44,5 @@ Through this project, I practiced:
 * Organizing HTML, CSS, images, and assets in a project
 
 
+## Screenshot
+![YouTube Clone Screenshot](youtube.png)
